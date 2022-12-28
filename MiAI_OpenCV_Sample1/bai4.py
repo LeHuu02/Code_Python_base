@@ -1,3 +1,7 @@
+"""
+Bài 4: Đếm và in ra số bóng trong hình?
+"""
+
 import cv2
 import imutils
 img = cv2.imread('sample.png')

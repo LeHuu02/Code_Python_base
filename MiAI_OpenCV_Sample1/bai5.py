@@ -1,5 +1,9 @@
 
-# bai 5 doc bien so xe va copy chu so trong anh
+'''
+Bài 5: Đọc ảnh biển số xe và crop các chữ số trên
+biển lưu ra file ảnh
+'''
+
 import cv2
 import imutils
 img = cv2.imread('sample1.png')
